@@ -24,7 +24,7 @@ function Navbar() {
                             </NavLink>
                         </li>
                         <li className="nav-item">
-                            {/* Apunta a /entities como piden los requisitos */}
+                            { }
                             <NavLink className="nav-link" to="/entities">
                                 Productos
                             </NavLink>
