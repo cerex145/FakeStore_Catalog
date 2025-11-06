@@ -16,7 +16,7 @@ Este es un proyecto de demostración para un curso, construido con React. La apl
 ### 🚀 Enlaces
 
 * **Deploy ():** [https://fake-store-catalog.vercel.app/)
-* **Video (YouTube):** [https://youtu.be/TU-ENLACE-DE-VIDEO](https://youtu.be/KvdyRrH5pUs)
+* **Video (YouTube):** (https://youtu.be/KvdyRrH5pUs)
 
 ---
 
