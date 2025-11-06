@@ -9,7 +9,7 @@ function Home() {
                 <p className="col-md-8 fs-4">
                     Bienvenido a nuestro catálogo de productos. Este es un proyecto de
                     demostración construido con React, Vite, React Router y Bootstrap,
-                    consumiendo datos de la FakeStore API.
+                    consumiendo datos de la FakeStore API De Carlos Valeriano.
                 </p>
                 <Link className="btn btn-primary btn-lg" to="/entities">
                     Ver Productos
